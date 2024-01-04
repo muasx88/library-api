@@ -1,0 +1,14 @@
+app:
+  name: "library-api"
+  env: "development"
+  version: "1.0"
+  port: "8000"
+  encryption: 
+    salt:
+    jwt_secret:
+db:
+  host:
+  port:
+  user:
+  password:
+  name:
